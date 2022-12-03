@@ -1,0 +1,21 @@
+{
+  "name": "rasgo-playwright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smthbh/rasgo-playwright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smthbh/rasgo-playwright/issues"
+  },
+  "homepage": "https://github.com/smthbh/rasgo-playwright#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.28.1"
+  }
+}
