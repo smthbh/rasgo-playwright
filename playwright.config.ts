@@ -71,7 +71,7 @@ const config: PlaywrightTestConfig = {
     {
       name: 'Mobile Chrome',
       use: {
-        ...devices['Pixel 7'],
+        ...devices['Pixel 5'],
       },
     },
     {
